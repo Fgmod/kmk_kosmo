@@ -8,7 +8,7 @@
 ## 📥 Скачать проект
 
 **Через git:**
-bash
+```bash
 git clone https://github.com/Fgmod/kmk_kosmo.git
 cd kmk_kosmo
 Без git: GitHub → Code → Download ZIP → распаковать → открыть терминал в папке kmk_kosmo.
